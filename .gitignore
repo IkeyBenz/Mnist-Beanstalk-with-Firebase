@@ -1,0 +1,11 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+.DS_Store
+firebase.json
+my_model.h5
+model_architecture.json
+model_weights.h5
